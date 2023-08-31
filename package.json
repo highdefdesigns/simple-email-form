@@ -1,0 +1,15 @@
+{
+  "name": "form",
+  "version": "1.0.0",
+  "description": "A form using phpMailer to submit forms",
+  "main": "form.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "form",
+    "submit"
+  ],
+  "author": "Justin Edwards",
+  "license": "MIT"
+}
